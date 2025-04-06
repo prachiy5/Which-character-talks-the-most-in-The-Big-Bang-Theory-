@@ -10,7 +10,7 @@ That little question turned into a full data project. I found a dataset, cleaned
 
 ## Dataset
 
-The data comes from the [Kaggle dataset](https://www.kaggle.com/datasets/pablovargas/the-big-bang-theory-series-dataset) which includes:
+The data comes from the Kaggle which includes:
 
 - 10 seasons
 - Scene-by-scene character lines
